@@ -1,0 +1,25 @@
+{
+  "name": "textbook",
+  "version": "1.0.0",
+  "description": "조현영 지음 길벗출판사 664쪽 32000원",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeroCho/nodejs-book.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZeroCho/nodejs-book/issues"
+  },
+  "homepage": "https://github.com/ZeroCho/nodejs-book#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
+}
